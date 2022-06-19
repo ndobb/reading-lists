@@ -46,6 +46,8 @@
 # Logical forms
 - **2019**
   - [Using FHIR to Construct a Corpus of Clinical Questions Annotated with Logical Forms and Answers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153115/)
+- **2016**
+  - [Annotating Logical Forms for EHR Questions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5428549/)
 - **2010**
   - [A survey of formalisms for representing and reasoning with scientific knowledge](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3ED1DB089A4A155DDF3A0BEB847D9C65/S0269888910000019a.pdf/survey_of_formalisms_for_representing_and_reasoning_with_scientific_knowledge.pdf)
 - **1996**
