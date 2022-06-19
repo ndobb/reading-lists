@@ -17,6 +17,7 @@
 - **2019**
   - [Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation](https://arxiv.org/pdf/1905.08205.pdf)
   - [Automatic Translation of Clinical Trial Eligibility Criteria into Formal Queries](https://lat.inf.tu-dresden.de/research/papers/2019/XFB-ODLS15.pdf)
+  - [Criteria2Query: a natural language interface to clinical databases for cohort definition](https://academic.oup.com/jamia/article/26/4/294/5308980)
 - **2016**
   - [Frameworks for Querying Databases Using Natural Language: A Literature Review](https://arxiv.org/ftp/arxiv/papers/1909/1909.01822.pdf)
 - **2012**
