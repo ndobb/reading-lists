@@ -30,6 +30,9 @@
 # Normalization
 - **2022**
   - [ELaPro, a LOINC-mapped core dataset for top laboratory procedures of eligibility screening for clinical trials](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01611-y)
+    - Reviewed 12k trials, normalized top 55 to LOINC values
+    - 55 labs represent 77.8% of all lab concepts in reviewed trials
+    - Dataset at https://doi.org/10.21961/mdm:44732
 
 # Reasoning
 - **2010**
