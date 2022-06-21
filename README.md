@@ -1,6 +1,10 @@
 # NER & Relation Extraction
 - **2021**
   - [Automated tabulation of clinical trial results: A joint entity and relation extraction approach with transformer-based language representations](https://arxiv.org/pdf/2112.05596.pdf)
+  - [Building an OMOP common data model-compliant annotated corpus for COVID-19 clinical trials](https://www.sciencedirect.com/science/article/pii/S1532046421001192?casa_token=RruFXxPZPpUAAAAA:U-C8pVmepNiCcK2s-pxA4J4BaQV8giVTLj6tAD0TB-rabSCDz5qrxXZ_iQzKtlbfAmWDsnDo4Q)
+    - Annotated 700 COVID-related clinical trials eligibility descriptions using CHIA annotation schema
+    - *Except* did not use 'Scope' *"considering its complexity"*
+    - Relations had to be done manually *"because existing criteria extraction tools could not achieve satisfactory performance due to the large number of attribute and relationship types defined in our annotation model"*
 - **2019**
   - [Knowledge-guided Text Structuring in Clinical Trials](https://arxiv.org/ftp/arxiv/papers/1912/1912.12380.pdf)
 
