@@ -1,13 +1,3 @@
-# NER & Relation Extraction
-- **2021**
-  - [Automated tabulation of clinical trial results: A joint entity and relation extraction approach with transformer-based language representations](https://arxiv.org/pdf/2112.05596.pdf)
-  - [Building an OMOP common data model-compliant annotated corpus for COVID-19 clinical trials](https://www.sciencedirect.com/science/article/pii/S1532046421001192?casa_token=RruFXxPZPpUAAAAA:U-C8pVmepNiCcK2s-pxA4J4BaQV8giVTLj6tAD0TB-rabSCDz5qrxXZ_iQzKtlbfAmWDsnDo4Q)
-    - Annotated 700 COVID-related clinical trials eligibility descriptions using CHIA annotation schema
-    - *Except* did not use 'Scope' *"considering its complexity"*
-    - Relations had to be done manually *"because existing criteria extraction tools could not achieve satisfactory performance due to the large number of attribute and relationship types defined in our annotation model"*
-- **2019**
-  - [Knowledge-guided Text Structuring in Clinical Trials](https://arxiv.org/ftp/arxiv/papers/1912/1912.12380.pdf)
-
 # Query Generation
 - **2022**
   - [Combining human and machine intelligence for clinical trial eligibility querying](https://academic.oup.com/jamia/article/29/7/1161/6569054)
@@ -26,6 +16,20 @@
   - [Frameworks for Querying Databases Using Natural Language: A Literature Review](https://arxiv.org/ftp/arxiv/papers/1909/1909.01822.pdf)
 - **2012**
   - [Enhancing electronic medical record retrieval through semantic query expansion](https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=cdcb0a20-6fed-4019-b9ab-3d9369226650%40redis)
+
+# NER & Relation Extraction
+- **2021**
+  - [Automated tabulation of clinical trial results: A joint entity and relation extraction approach with transformer-based language representations](https://arxiv.org/pdf/2112.05596.pdf)
+  - [Building an OMOP common data model-compliant annotated corpus for COVID-19 clinical trials](https://www.sciencedirect.com/science/article/pii/S1532046421001192?casa_token=RruFXxPZPpUAAAAA:U-C8pVmepNiCcK2s-pxA4J4BaQV8giVTLj6tAD0TB-rabSCDz5qrxXZ_iQzKtlbfAmWDsnDo4Q)
+    - Annotated 700 COVID-related clinical trials eligibility descriptions using CHIA annotation schema
+    - *Except* did not use 'Scope' *"considering its complexity"*
+    - Relations had to be done manually *"because existing criteria extraction tools could not achieve satisfactory performance due to the large number of attribute and relationship types defined in our annotation model"*
+- **2019**
+  - [Knowledge-guided Text Structuring in Clinical Trials](https://arxiv.org/ftp/arxiv/papers/1912/1912.12380.pdf)
+
+# Normalization
+- **2022**
+  - [ELaPro, a LOINC-mapped core dataset for top laboratory procedures of eligibility screening for clinical trials](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01611-y)
 
 # Reasoning
 - **2010**
