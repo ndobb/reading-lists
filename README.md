@@ -55,6 +55,11 @@
   - [OILing the Way to Machine Understandable Bioinformatics Resources](https://ieeexplore.ieee.org/document/1006300)
 
 # Logical forms
+- **2021**
+  - [Evaluating eligibility criteria of oncology trials using real-world data and AI](https://www.nature.com/articles/s41586-021-03430-5)
+    - Manually annotated oncology elig. descriptions
+    - Hard-coded table & column names
+    - Data at https://github.com/RuishanLiu/TrialPathfinder/blob/master/paper/criteria/Roche_OAK.csv 
 - **2019**
   - [Using FHIR to Construct a Corpus of Clinical Questions Annotated with Logical Forms and Answers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153115/)
 - **2016**
