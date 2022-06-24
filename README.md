@@ -72,3 +72,8 @@
 # Cohort Discovery
 - **2020**
   - [Patient Cohort Retrieval using Transformer Language Models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075458/)
+
+# Chatbots
+- **2022**
+  - [GODEL: Large-Scale Pre-Training for Goal-Directed Dialog](https://arxiv.org/pdf/2206.11309.pdf)
+  - [Chat, Shift and Perform: Bridging the Gap between Task-oriented and Non-task-oriented Dialog Systems](https://arxiv.org/pdf/2206.11813.pdf)
